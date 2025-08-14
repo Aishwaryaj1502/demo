@@ -35,7 +35,7 @@ int main()
         break;
     }
 
+    cout<<"Registration No is 241081026"<<endl;
+    
     return 0;
 }
-
-// Registration No is 241081026
