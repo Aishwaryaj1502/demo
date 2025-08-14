@@ -34,8 +34,8 @@ int main()
         cout << "Invalid input taken." << endl;
         break;
     }
-    cout<<"Registration No is 241081026"<<endl;
 
     return 0;
 }
+
 
